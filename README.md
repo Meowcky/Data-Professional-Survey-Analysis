@@ -6,11 +6,7 @@ This project uses survey data from data professionals to explore **demographics,
 The dashboard uses a range of interactive visualisations to identify patterns in respondents' backgrounds, career choices, programming language preferences, salaries, and workplace satisfaction.
 
 ## Demonstration
-
 ![Dashboard Demonstration](./demonstration.gif)
-<img src="/readMeMedia/demo.gif" style="width:90%; height:auto;">
-<img src="/demonstration.gif" style="width:90%; height:auto;">
-![Dashboard Demonstration](https://raw.githubusercontent.com/Meowcky/Data-Professional-Survey-Analysis/main/demonstration.gif)
 
 ## Power BI Skills Applied
 * Custom tooltips
